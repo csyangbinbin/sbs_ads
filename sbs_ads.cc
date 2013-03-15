@@ -9,7 +9,7 @@
 #include "xml_cfg.hpp"
 #include "sbs_device.hpp"
 #include "net_tcp_srv.hpp"
-
+ 
 
 //app config file path
 #define APP_CONFIG_FILE_NAME "/etc/sbs_ads.cfg"
